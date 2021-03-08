@@ -1,0 +1,13 @@
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\bin\Debug\netcoreapp3.1\TricubesTest.exe
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\bin\Debug\netcoreapp3.1\TricubesTest.deps.json
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\bin\Debug\netcoreapp3.1\TricubesTest.runtimeconfig.json
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\bin\Debug\netcoreapp3.1\TricubesTest.runtimeconfig.dev.json
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\bin\Debug\netcoreapp3.1\TricubesTest.dll
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\bin\Debug\netcoreapp3.1\TricubesTest.pdb
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.csprojAssemblyReference.cache
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.AssemblyInfoInputs.cache
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.AssemblyInfo.cs
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.csproj.CoreCompileInputs.cache
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.dll
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.pdb
+C:\Users\mohammad.shaban\source\repos\TricubesTest\TricubesTest\obj\Debug\netcoreapp3.1\TricubesTest.genruntimeconfig.cache
